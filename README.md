@@ -1,4 +1,4 @@
-    # **About Me**
+<h1>About Me</h1>
 
 Hi, I’m Saheed Samad – a passionate **Data Analyst** with strong expertise in **Excel**, **Python**, **SQL**, and **Power BI**. I specialize in analyzing data, creating powerful visualizations, and generating actionable insights to support business decision-making.
 
