@@ -12,6 +12,13 @@ Hi, I’m Saheed Samad – a passionate **Data Analyst** with strong expertise i
 
 ---
 
+### **📜 Certification**
+- **Data Analytics Career Path: 72 Days of Data Analyst Bootcamp**  
+  Awarded by **Udemy** – [View Certificate](https://ude.my/UC-f184c0f8-f5a3-4a56-ae18-38ec21240caa)  
+  *(Comprehensive training on data analytics, including Excel, Python, SQL, and Power BI.)*
+
+---
+
 ### **📁 What You’ll Find Here**
 - **Data Analysis Projects**: From raw data cleaning to advanced analytics.
 - **Dashboards**: Interactive visualizations built with Power BI.
@@ -21,13 +28,15 @@ Hi, I’m Saheed Samad – a passionate **Data Analyst** with strong expertise i
 ---
 
 ### **🔧 Tools & Skills**
-- **Data Analytics**: Excel (Advanced functions, VBA), Python (Pandas, NumPy), SQL (Complex queries), Power Bi
-  **Data Visualization**: Power BI, Excel Dashboards
-- **Core Competencies**: Data Cleaning, EDA, Reporting Automation, Dashboard Creation, Data Storytelling
+- **Data Analytics**:  
+  - **Excel**: Advanced formulas, pivot tables, and reporting.  
+  - **Python**: Libraries like Pandas, NumPy, Matplotlib, and Seaborn.  
+  - **SQL**: Complex queries for data extraction and analysis.  
+  - **Power BI**: Interactive dashboards and visualization tools.
+- **Core Competencies**: Data Cleaning, Exploratory Data Analysis (EDA), Reporting Automation, Dashboard Creation, and Data Storytelling.
 
 ---
 
 ### **📫 Connect with Me**
-- **Email**: [saheedsamad80@gmail.com)  
-- **LinkedIn**: [www.linkedin.com/in/saheed-samad-05168a335)  
-
+- **Email**: [saheedsamad80@gmail.com]  
+- **LinkedIn**: [www.linkedin.com/in/saheed-samad-05168a335]
